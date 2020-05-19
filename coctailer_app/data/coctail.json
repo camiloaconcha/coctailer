@@ -1,0 +1,794 @@
+[
+  {
+    "_id": "5ec2e824a13551333ca997a2",
+    "name": "Americano",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_1.jpg",
+    "preparation": "Bitter Campari (30) Martini Red (30) Soda (30)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997a3",
+    "name": "Angel Face",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_2.jpg",
+    "preparation": "Gin (30) Apricot Brandy (30) Calvados (30)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997a4",
+    "name": "Aviation",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_3.jpg",
+    "preparation": "Gin (45) Maraschino (15) Lime (15)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997a5",
+    "name": "Bacardi",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_4.jpg",
+    "preparation": "Rum (White) (45) Sweet & Sour (20) Cranberry Juice (10)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997a6",
+    "name": "Banana Daiquiri",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_16.jpg",
+    "preparation": "Rum (White) (45) Sweet & Sour (30)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997a7",
+    "name": "Barracuda",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_5.jpg",
+    "preparation": "Rum (White) (45) Galliano (15) Pineapple Juice (60) Prosecco (50) Lime (10)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997a8",
+    "name": "Between The Sheets",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_6.jpg",
+    "preparation": "Rum (White) (30) Cognac (40) Triple Sec (10) Lime (20)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997aa",
+    "name": "Bramble",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_8.jpg",
+    "preparation": "Gin (40) Sweet & Sour (20) Cranberry Juice (15)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997a9",
+    "name": "Black Russian",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_7.jpg",
+    "preparation": "Vodka (50) Kahlua (20)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ab",
+    "name": "Bronks",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_9.jpg",
+    "preparation": "Gin (40) Martini Dry (20) Martini White (20) Orange Juice (20)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ac",
+    "name": "Caipirinha",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_86.jpg",
+    "preparation": "Cachaca (60)",
+    "createdAt": "2020-05-18T19:55:16.346Z",
+    "updatedAt": "2020-05-18T19:55:16.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ad",
+    "name": "Caipiroska",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_400.jpg",
+    "preparation": "Vodka (50)",
+    "createdAt": "2020-05-18T19:55:16.347Z",
+    "updatedAt": "2020-05-18T19:55:16.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ae",
+    "name": "Caipiroska Strawberry",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_401.jpg",
+    "preparation": "Vodka (50) Strawberry Syrup (10)",
+    "createdAt": "2020-05-18T19:55:16.347Z",
+    "updatedAt": "2020-05-18T19:55:16.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997af",
+    "name": "Campari Orange",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_11.jpg",
+    "preparation": "Bitter Campari (60) Orange Juice (120)",
+    "createdAt": "2020-05-18T19:55:16.347Z",
+    "updatedAt": "2020-05-18T19:55:16.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997b0",
+    "name": "Cape Codder",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_402.jpg",
+    "preparation": "Vodka (50) Cranberry Juice (130)",
+    "createdAt": "2020-05-18T19:55:16.347Z",
+    "updatedAt": "2020-05-18T19:55:16.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997b1",
+    "name": "Casino",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_12.jpg",
+    "preparation": "Gin (40) Maraschino (10) Bitter Orange (10) Sweet & Sour (10)",
+    "createdAt": "2020-05-18T19:55:16.347Z",
+    "updatedAt": "2020-05-18T19:55:16.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997b2",
+    "name": "Cosmopolitan",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_13.jpg",
+    "preparation": "Vodka (40) Triple Sec (15) Lime (30) Cranberry Juice (60)",
+    "createdAt": "2020-05-18T19:55:16.347Z",
+    "updatedAt": "2020-05-18T19:55:16.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997b3",
+    "name": "Cuba Libre",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_14.jpg",
+    "preparation": "Rum (White) (65)",
+    "createdAt": "2020-05-18T19:55:16.347Z",
+    "updatedAt": "2020-05-18T19:55:16.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997b5",
+    "name": "Daiquiri",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_15.jpg",
+    "preparation": "Rum (White) (45) Sweet & Sour (30)",
+    "createdAt": "2020-05-18T19:55:16.347Z",
+    "updatedAt": "2020-05-18T19:55:16.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997b4",
+    "name": "Cuban Manhattan",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_403.jpg",
+    "preparation": "Rum (White) (50) Martini Red (20) Bitter Campari (5)",
+    "createdAt": "2020-05-18T19:55:16.347Z",
+    "updatedAt": "2020-05-18T19:55:16.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997b6",
+    "name": "Daiquiri Hemingway",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_18.jpg",
+    "preparation": "Rum (White) (50) Grapefruit Juice (30) Maraschino (5) Lime (15) Liquid Sugar (5)",
+    "createdAt": "2020-05-18T19:55:16.347Z",
+    "updatedAt": "2020-05-18T19:55:16.347Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997b7",
+    "name": "Daiquiri Strawberry",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_17.jpg",
+    "preparation": "Rum (White) (45) Strawberry Syrup (10) Sweet & Sour (20)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997b8",
+    "name": "Dark 'N' Stormy",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_19.jpg",
+    "preparation": "Rum (White) (60) Ginger Beer (110)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997b9",
+    "name": "Derby",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_20.jpg",
+    "preparation": "Gin (60) Apricot Peach (15)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ba",
+    "name": "Dry Martini",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_21.jpg",
+    "preparation": "Vodka (60) Martini Dry (10)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997bb",
+    "name": "French 75",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_22.jpg",
+    "preparation": "Gin (30) Sweet & Sour (20) Champagne (60)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997bc",
+    "name": "French Connection",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_23.jpg",
+    "preparation": "Cognac (35) Disaronno (35)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997bd",
+    "name": "Fruit Punch *",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_80.jpg",
+    "preparation": "Orange Juice (80) Strawberry Syrup (20) Pineapple Juice (80)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997be",
+    "name": "Gin Fizz",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_24.jpg",
+    "preparation": "Gin (45) Sweet & Sour (40)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997bf",
+    "name": "Gin Lemon",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_404.jpg",
+    "preparation": "Gin (60)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997c0",
+    "name": "Gin Tonic",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_25.jpg",
+    "preparation": "Gin (60)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997c1",
+    "name": "God Father",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_26.jpg",
+    "preparation": "Whisky (45) Disaronno (45)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997c2",
+    "name": "God Mother",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_27.jpg",
+    "preparation": "Vodka (45) Disaronno (45)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997c3",
+    "name": "GrapeFruit Mint Cooler",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_81.jpg",
+    "preparation": "Grapefruit Juice (60) Sweet & Sour (40) Soda (40) Mint Syrup (10)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997c4",
+    "name": "Harvey Wallbenger",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_28.jpg",
+    "preparation": "Vodka (60) Galliano (20) Orange Juice (100)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997c5",
+    "name": "Havana Beach",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_29.jpg",
+    "preparation": "Rum (White) (40) Pineapple Juice (90) Ginger Beer (50)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997c6",
+    "name": "Honululu",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_69.jpg",
+    "preparation": "Gin (45) Orange Juice (15) Pineapple Juice (15) Cranberry Juice (10) Sweet & Sour (15)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997c7",
+    "name": "Invisibile",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_30.jpg",
+    "preparation": "Rum (White) (36) Vodka (36) Gin (36) Triple Sec (36) Sweet & Sour (36)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997c8",
+    "name": "Invisibile Strawberry",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_31.jpg",
+    "preparation": "Rum (White) (34) Gin (34) Vodka (34) Triple Sec (34) Sweet & Sour (34) Strawberry Syrup (10)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997c9",
+    "name": "Italian Iced Tea",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_32.jpg",
+    "preparation": "Rum (White) (25) Vodka (25) Gin (25) Sweet & Sour (50) Cola (20) Disaronno (25)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ca",
+    "name": "Japonese Iced Tea",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_33.jpg",
+    "preparation": "Rum (White) (25) Midori (25) Vodka (25) Gin (25) Sweet & Sour (50)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997cb",
+    "name": "John Collins",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_34.jpg",
+    "preparation": "Gin (45) Sweet & Sour (30) Soda (60)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997cc",
+    "name": "Kamikaze",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_35.jpg",
+    "preparation": "Vodka (30) Triple Sec (30) Lime (30)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997cd",
+    "name": "Leamon Drop Martini",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_36.jpg",
+    "preparation": "Vodka (50) Triple Sec (20) Lime (20)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ce",
+    "name": "Long island Iced Tea",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_37.jpg",
+    "preparation": "Cola (25) Vodka (25) Rum (White) (25) Gin (25) Triple Sec (25) Sweet & Sour (55)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997cf",
+    "name": "Mai-Tai",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_38.jpg",
+    "preparation": "Rum (White) (40) Rum (Dark) (20) Bitter Orange (15) Orgeat syrup (15) Lime (10)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997d0",
+    "name": "Manhattan",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_39.jpg",
+    "preparation": "Whisky (50) Martini Red (20) Bitter Campari (5)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997d1",
+    "name": "Margarita",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_40.jpg",
+    "preparation": "Lime (25) Triple Sec (25) Tequila (50)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997d2",
+    "name": "Margarita Strawberry",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_41.jpg",
+    "preparation": "Triple Sec (25) Tequila (50) Lime (25) Strawberry Syrup (20)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997d3",
+    "name": "Mary PickFord",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_42.jpg",
+    "preparation": "Rum (White) (60) Maraschino (10) Cranberry Juice (30) Pineapple Juice (80)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997d4",
+    "name": "Mexican Negroni",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_405.jpg",
+    "preparation": "Tequila (30) Bitter Campari (30) Martini Red (30)",
+    "createdAt": "2020-05-18T19:55:16.348Z",
+    "updatedAt": "2020-05-18T19:55:16.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997d5",
+    "name": "Milano-Torino",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_406.jpg",
+    "preparation": "Bitter Campari (45) Martini Red (45)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997d6",
+    "name": "Mint Julep",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_44.jpg",
+    "preparation": "Whisky (60) Sweet & Sour (20) Soda (10)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997d7",
+    "name": "Mojito",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_45.jpg",
+    "preparation": "Rum (White) (60) Lime (30) Soda (50)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997d8",
+    "name": "Monkey Gland",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_46.jpg",
+    "preparation": "Gin (50) Orange Juice (30) Absinth (5) Cranberry Juice (5)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997d9",
+    "name": "Moscow Mule",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_48.jpg",
+    "preparation": "Vodka (50) Ginger Beer (110) Lime (20)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997da",
+    "name": "Negroni",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_49.jpg",
+    "preparation": "Gin (30) Bitter Campari (30) Martini Red (30)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997db",
+    "name": "Negrosky",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_407.jpg",
+    "preparation": "Vodka (30) Bitter Campari (30) Martini Red (30)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997dc",
+    "name": "New Yorker",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_408.jpg",
+    "preparation": "Whisky (60) Sweet & Sour (30)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997dd",
+    "name": "Old Fashioned",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_50.jpg",
+    "preparation": "Whisky (45) Bitter Campari (5) Soda (20)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997de",
+    "name": "PainKiller",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_74.jpg",
+    "preparation": "Pineapple Juice (88) Orange Juice (24) Coconut Syrup (23) Rum (White) (45)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997df",
+    "name": "Paradise",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_51.jpg",
+    "preparation": "Gin (40) Apricot Brandy (20) Orange Juice (15)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997e0",
+    "name": "Phil Collins",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_70.jpg",
+    "preparation": "Gin (50) Sweet & Sour (20) Soda (60)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997e1",
+    "name": "Pina Colada",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_53.jpg",
+    "preparation": "Rum (White) (45) Pineapple Juice (100) Coconut Syrup (20)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997e2",
+    "name": "Plunter's Punch",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_55.jpg",
+    "preparation": "Rum (White) (45) Orange Juice (35) Pineapple Juice (35) Sweet & Sour (20) Cranberry Juice (10) Bitter Campari (5)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997e3",
+    "name": "President Margarita",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_72.jpg",
+    "preparation": "Tequila (35) Triple Sec (20) Sweet & Sour (20) Brandy (15)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997e4",
+    "name": "Rum Sidecar",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_409.jpg",
+    "preparation": "Rum (White) (50) Sweet & Sour (20) Triple Sec (20)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997e5",
+    "name": "Sbagliato",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_56.jpg",
+    "preparation": "Bitter Campari (60) Martini Red (60) Prosecco (60)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997e6",
+    "name": "Screwdriver",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_57.jpg",
+    "preparation": "Vodka (60) Orange Juice (120)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997e7",
+    "name": "Sea Breeze",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_58.jpg",
+    "preparation": "Vodka (40) Cranberry Juice (110) Grapefruit Juice (30)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997e8",
+    "name": "Sex On The Beach",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_59.jpg",
+    "preparation": "Vodka (50) Cranberry Juice (50) Orange Juice (50) Apricot Peach (30)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997e9",
+    "name": "Sidecar",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_60.jpg",
+    "preparation": "Cognac (50) Triple Sec (20) Sweet & Sour (20)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ea",
+    "name": "Singapure Sling",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_61.jpg",
+    "preparation": "Benedictine (7) Gin (30) Cherry (15) Triple Sec (7) Pineapple Juice (120) Lime (10) Cranberry Juice (10) Bitter Campari (1)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997eb",
+    "name": "Spritz Veneziano",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_62.jpg",
+    "preparation": "Prosecco (90) Aperol (60) Soda (30)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ec",
+    "name": "Stinger",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_63.jpg",
+    "preparation": "Cognac (50) Creme de menthe (20)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ed",
+    "name": "Tequila Sunrise",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_64.jpg",
+    "preparation": "Tequila (50) Orange Juice (110) Cranberry Juice (20)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ee",
+    "name": "Texas Iced Tea",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_65.jpg",
+    "preparation": "Rum (White) (25) Vodka (25) Gin (25) Tequila (25) Triple Sec (25) Sweet & Sour (55) Cola (20)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997ef",
+    "name": "Tropical *",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_79.jpg",
+    "preparation": "Pineapple Juice (90) Sweet & Sour (70) Coconut Syrup (20)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997f0",
+    "name": "Virgin Colada *",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_77.jpg",
+    "preparation": "Strawberry Syrup (30) Coconut Syrup (30) Pineapple Juice (120)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997f1",
+    "name": "Vodka Leamon",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_410.jpg",
+    "preparation": "Vodka (60)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997f2",
+    "name": "Vodka Saur",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_411.jpg",
+    "preparation": "Vodka (45) Sweet & Sour (75)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997f3",
+    "name": "Vodka Tonic",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_85.jpg",
+    "preparation": "Vodka (60)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997f4",
+    "name": "Whisky Cola",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_412.jpg",
+    "preparation": "Whisky (60)",
+    "createdAt": "2020-05-18T19:55:16.349Z",
+    "updatedAt": "2020-05-18T19:55:16.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997f5",
+    "name": "Whisky Sour",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_413.jpg",
+    "preparation": "Whisky (45) Sweet & Sour (75)",
+    "createdAt": "2020-05-18T19:55:16.350Z",
+    "updatedAt": "2020-05-18T19:55:16.350Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997f6",
+    "name": "White Lady",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_66.jpg",
+    "preparation": "Gin (45) Triple Sec (27) Sweet & Sour (18)",
+    "createdAt": "2020-05-18T19:55:16.350Z",
+    "updatedAt": "2020-05-18T19:55:16.350Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997f7",
+    "name": "White Russian Lady",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_414.jpg",
+    "preparation": "Vodka (45) Triple Sec (27) Sweet & Sour (18)",
+    "createdAt": "2020-05-18T19:55:16.350Z",
+    "updatedAt": "2020-05-18T19:55:16.350Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997f8",
+    "name": "Yellow Bird",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_67.jpg",
+    "preparation": "Rum (White) (35) Triple Sec (15) Galliano (15) Lime (15)",
+    "createdAt": "2020-05-18T19:55:16.350Z",
+    "updatedAt": "2020-05-18T19:55:16.350Z",
+    "__v": 0
+  },
+  {
+    "_id": "5ec2e824a13551333ca997f9",
+    "name": "Zombie",
+    "image": "http://cocktail.itsplanet.eu/img/cocktail/2017_68.jpg",
+    "preparation": "Rum (White) (60) Lime (20) Coconut Syrup (2) Apricot Brandy (30) Pineapple Juice (60)",
+    "createdAt": "2020-05-18T19:55:16.350Z",
+    "updatedAt": "2020-05-18T19:55:16.350Z",
+    "__v": 0
+  }
+]
