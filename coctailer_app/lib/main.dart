@@ -1,46 +1,48 @@
 import 'dart:convert';
 
+import 'package:coctailerapp/Cocktail.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 void main() {
-  runApp(CoctailerApp());
+  runApp(CocktailerApp());
 }
 
-class CoctailerApp extends StatelessWidget {
+class CocktailerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Coctails List',
+      title: 'Cocktails List',
       theme: ThemeData(
           primarySwatch: Colors.green, accentColor: Colors.blueAccent),
-      home: CoctailList(title: 'Coctails List'),
+      home: CocktailList(title: 'Cocktails List'),
     );
   }
 }
 
-class CoctailList extends StatefulWidget {
+class CocktailList extends StatefulWidget {
   final String title;
 
-  CoctailList({this.title});
+  CocktailList({this.title});
 
   @override
-  State<StatefulWidget> createState() => _CoctailListState();
+  State<StatefulWidget> createState() => _CocktailListState();
 }
 
-class _CoctailListState extends State<CoctailList> {
-  var coctails = [];
+class _CocktailListState extends State<CocktailList> {
+  var cocktails = [];
 
-  Future loadCoctailsList() async {
-    var content = await rootBundle.loadString('data/coctail.json');
-    var collection = json.decode(content);
+  Future loadCocktailsList() async {
+    String content = await rootBundle.loadString('data/cocktail.json');
+    List collection = json.decode(content);
+    List<Cocktail> _cocktails = collection.map((json)=> Cocktail.fromJson(json)).toList();
     setState(() {
-      coctails = collection;
+      cocktails = _cocktails;
     });
   }
 
   void initState() {
-    loadCoctailsList();
+    loadCocktailsList();
     super.initState();
   }
 
@@ -51,19 +53,18 @@ class _CoctailListState extends State<CoctailList> {
       ),
       body: ListView.separated(
         separatorBuilder: (context, index) => Divider(),
-        itemCount: coctails.length,
+        itemCount: cocktails.length,
         itemBuilder: (BuildContext context, int index) {
-          var coctail = coctails[index];
+          Cocktail cocktail = cocktails[index];
           return ListTile(
             leading: CircleAvatar(
                 backgroundColor: Colors.blue,
-                child: Text(
-                    coctail['name'].toString().substring(0, 2).toUpperCase())),
-            title: Text(coctail['name']),
+                child: Text(cocktail.name.substring(0, 2).toUpperCase())),
+            title: Text(cocktail.name),
             trailing: Text('>'),
             isThreeLine: true,
             subtitle: Text(
-              coctail['preparation'],
+              cocktail.preparation,
               maxLines: 2,
               overflow: TextOverflow.ellipsis,
             ),
