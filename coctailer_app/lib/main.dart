@@ -2,8 +2,7 @@ import 'dart:convert';
 
 import 'package:coctailerapp/Cocktail.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-
+import 'package:http/http.dart' as http;
 void main() {
   runApp(CocktailerApp());
 }
@@ -33,7 +32,9 @@ class _CocktailListState extends State<CocktailList> {
   var cocktails = [];
 
   Future loadCocktailsList() async {
-    String content = await rootBundle.loadString('data/cocktail.json');
+    http.Response response = await http.get('http://www.mocky.io/v2/5ec33efb300000940039bf35');
+    print('Response status: ${response.statusCode}');
+    String content = response.body;
     List collection = json.decode(content);
     List<Cocktail> _cocktails = collection.map((json)=> Cocktail.fromJson(json)).toList();
     setState(() {

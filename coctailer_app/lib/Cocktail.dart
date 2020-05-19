@@ -6,8 +6,9 @@ part 'Cocktail.g.dart';
 class Cocktail {
   final String name;
   final String preparation;
+  final String image;
 
-  Cocktail(this.name, this.preparation);
+  Cocktail(this.name, this.preparation,this.image);
 
   factory Cocktail.fromJson(Map<String, dynamic> json) =>
       _$CocktailFromJson(json);
